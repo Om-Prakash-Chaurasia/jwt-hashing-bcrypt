@@ -117,4 +117,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [jackadvic07@gmail.com](mailto:jackadvic07@gmail.com).
